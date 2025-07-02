@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="hotels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="hotel" maxOccurs="unbounded" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name" maxOccurs="1" minOccurs="1"/>
+              <xs:element type="xs:string" name="phone" maxOccurs="unbounded" minOccurs="1"/>
+              <xs:element name="address" maxOccurs="1" minOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="number" maxOccurs="1" minOccurs="1"/>
+                    <xs:element type="xs:string" name="street" maxOccurs="1" minOccurs="1"/>
+                    <xs:element type="xs:string" name="city" maxOccurs="1" minOccurs="1"/>
+                    <xs:element type="xs:string" name="state" maxOccurs="1" minOccurs="1"/>
+                    <xs:element type="xs:int" name="zip" maxOccurs="1" minOccurs="1"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="nearestAirport" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:float" name="rating"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
