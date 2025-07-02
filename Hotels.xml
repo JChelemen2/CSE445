@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hotels>
-    <hotel rating="4.4">
-        <name>Holiday Inn and Suites</name>
-        <phone>480-922-6500</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>14255</number>
-            <street>N 87th st</street>
-            <city>Scottsdale</city>
-            <state>AZ</state>
-            <zip>85260</zip>
-        </address>
-    </hotel>
-	<hotel rating="4.0">
-        <name>DoubleTree</name>
-        <phone>602-997-5900</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>10220</number>
-            <street>N Metro Pkwy E</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85051</zip>
-        </address>
-    </hotel>
-	<hotel rating="3.4">
-        <name>Extended Stay America</name>
-        <phone>480-607-3767</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>15501</number>
-            <street>N Scottsdale Rd</street>
-            <city>Scottsdale</city>
-            <state>AZ</state>
-            <zip>85254</zip>
-        </address>
-    </hotel>
-	<hotel rating="4.2">
-        <name>Westin</name>
-        <phone>480-968-8885</phone>
-        <phone>800-937-8461</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>11</number>
-            <street>E.7th St</street>
-            <city>Tempe</city>
-            <state>AZ</state>
-            <zip>85281</zip>
-        </address>
-    </hotel>
-	<hotel>
-        <name>Scottsdale Parkview Resort</name>
-        <phone>480-941-1202</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>7707</number>
-            <street>E McDowell Rd</street>
-            <city>Scottsdale</city>
-            <state>AZ</state>
-            <zip>85257</zip>
-        </address>
-    </hotel>
-	<hotel rating="3.1">
-        <name>Days Inn</name>
-        <phone>623-434-5500</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>21636</number>
-            <street>N 26th Ave</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85027</zip>
-        </address>
-    </hotel>
-	<hotel rating="4.3">
-        <name>Residence Inn Phoenix Desert View</name>
-        <phone>480-563-1500</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>5666</number>
-            <street>E Mayo Blvd</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85054</zip>
-        </address>
-    </hotel>
-	<hotel rating="4.2">
-        <name>Courtyard Phoenix North</name>
-        <phone>623-580-8844</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>2029</number>
-            <street>W Whispering Wind Dr</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85085</zip>
-        </address>
-    </hotel>
-	<hotel rating="3.7">
-        <name>Hyatt Place Phoenix-North</name>
-        <phone>602-997-8800</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>10838</number>
-            <street>N 25th Ave</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85029</zip>
-        </address>
-    </hotel>
-	<hotel>
-        <name>SureStay by Western Phoenix Airtport</name>
-        <phone>602-273-1601</phone>
-        <address nearestAirport="Sky Harbor">
-            <number>3037</number>
-            <street>E Van Buren St</street>
-            <city>Phoenix</city>
-            <state>AZ</state>
-            <zip>85008</zip>
-        </address>
-    </hotel>
-</hotels>
+<Hotels>
+    <Hotel Rating="4.4">
+        <Name>Holiday Inn and Suites</Name>
+        <Phone>480-922-6500</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>14255</Number>
+            <Street>N 87th st</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85260</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="4.0">
+        <Name>DoubleTree</Name>
+        <Phone>602-997-5900</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>10220</Number>
+            <Street>N Metro Pkwy E</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85051</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="3.4">
+        <Name>Extended Stay America</Name>
+        <Phone>480-607-3767</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>15501</Number>
+            <Street>N Scottsdale Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85254</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+	<Hotel>
+        <Name>Scottsdale Parkview Resort</Name>
+        <Phone>480-941-1202</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>7707</Number>
+            <Street>E McDowell Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85257</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="3.1">
+        <Name>Days Inn</Name>
+        <Phone>623-434-5500</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>21636</Number>
+            <Street>N 26th Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85027</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="4.3">
+        <Name>Residence Inn Phoenix Desert View</Name>
+        <Phone>480-563-1500</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>5666</Number>
+            <Street>E Mayo Blvd</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85054</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="4.2">
+        <Name>Courtyard Phoenix North</Name>
+        <Phone>623-580-8844</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>2029</Number>
+            <Street>W Whispering Wind Dr</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85085</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Rating="3.7">
+        <Name>Hyatt Place Phoenix-North</Name>
+        <Phone>602-997-8800</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>10838</Number>
+            <Street>N 25th Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85029</Zip>
+        </Address>
+    </Hotel>
+	<Hotel>
+        <Name>SureStay by Western Phoenix Airport</Name>
+        <Phone>602-273-1601</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>3037</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
